@@ -47,7 +47,7 @@ section{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(images/Profile\ Picture.jpeg) no-repeat;
+    background: url("https://i.ibb.co/xSrk6WZp/Profile-Picture.jpg") no-repeat;
     background-size:cover;
     background-position:center;
     background-attachment: fixed;
@@ -276,4 +276,5 @@ section{
         font-size: 10px;
     }
     
+
 }
